@@ -1,4 +1,14 @@
 {
-"name": "@grenudi/testing",
-"version": "1.0.0"
+  "name": "@grenudi/testing",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string(or not...)",
+  "license": "MIT",
+  "repository": "grenudi/testing",
+  "main": "index.js",
+  "keywords": [
+    "grenudi",
+    "npm",
+    "package",
+    "testing"
+  ]
 }
