@@ -1,14 +1,25 @@
 {
   "name": "@grenudi/testing",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "description": "Removes all spaces from a string(or not...)",
+  "author": {
+    "name": "grenudi",
+    "email": "idunerg@gmail.com"
+  },
   "license": "MIT",
-  "repository": "grenudi/testing",
   "main": "index.js",
   "keywords": [
     "grenudi",
     "npm",
     "package",
     "testing"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grenudi-js-modules/testing"
+  },
+  "bugs": {
+    "url": "https://github.com/grenudi-js-modules/testing/issues"
+  },
+  "readmeFilename": "README.md"
 }
